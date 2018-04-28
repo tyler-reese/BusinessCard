@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tea for Two Boutique</string>
+    <string name="website">www.teafortwoboutique.com</string>
+    <string name="businessName">Tea for Two Boutique</string>
+    <string name="businessDescription">Making teddy bears out of your clothing</string>
+    <string name="teddybearImageDescription">Image of a teddy bear</string>
+</resources>
